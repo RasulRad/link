@@ -24,7 +24,7 @@ button {
 .main-container {
   position: relative;
   width: 368px;
-  height: 1000px;
+  height: 900px;
   margin: auto;
   background: linear-gradient(134.39deg, #c1ecff, #efefef);
   overflow: hidden;
