@@ -687,3 +687,7 @@ button {
   text-decoration: none;
   color: #007aff;
 }
+
+* {
+  margin: 0;
+}
