@@ -22,9 +22,10 @@ button {
 }
 
 .main-container {
-  width: 368px;
   position: relative;
-  margin: auto;
+  width: 360px;
+  height: 798px;
+  margin: 0 auto;
   background: linear-gradient(134.39deg, #c1ecff, #efefef);
   overflow: hidden;
 }
