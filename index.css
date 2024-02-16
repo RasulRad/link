@@ -683,7 +683,7 @@ button {
   padding: 0;
   z-index: 48;
 }
-a {
+.link {
   text-decoration: none;
   color: #007aff;
 }
