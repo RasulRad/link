@@ -23,8 +23,6 @@ button {
 
 .main-container {
   position: relative;
-  width: 368px;
-  height: 798px;
   margin: 0 auto;
   background: linear-gradient(134.39deg, #c1ecff, #efefef);
   overflow: hidden;
