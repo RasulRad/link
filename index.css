@@ -683,11 +683,10 @@ button {
   padding: 0;
   z-index: 48;
 }
-.link {
+a {
   text-decoration: none;
   color: #007aff;
 }
-
 * {
   margin: 0;
 }
