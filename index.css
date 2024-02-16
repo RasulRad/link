@@ -22,7 +22,7 @@ button {
 }
 
 .main-container {
-  height: 500px;
+  width: 500px;
   position: relative;
   margin: 0 auto;
   background: linear-gradient(134.39deg, #c1ecff, #efefef);
