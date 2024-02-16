@@ -23,10 +23,13 @@ button {
 
 .main-container {
   position: relative;
-  margin: 0 auto;
+  width: 368px;
+  height: 1000px;
+  margin: auto;
   background: linear-gradient(134.39deg, #c1ecff, #efefef);
   overflow: hidden;
 }
+
 .content-area {
   position: relative;
   width: 310px;
